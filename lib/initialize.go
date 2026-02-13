@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gobuffalo/packr"
+	"github.com/gobuffalo/packr/v2"
 )
 
 // Run x
