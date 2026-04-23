@@ -13,7 +13,7 @@ import (
 	"github.com/hashicorp/hcl2/hcl"
 	"github.com/hashicorp/hcl2/hcl/hclsyntax"
 	"github.com/hashicorp/hcl2/hclwrite"
-	yaml "gopkg.in/yaml.v2"
+	yaml ""gopkg.in/yaml.v2""
 )
 
 func render(tplPaths, dataPaths []string, filename, outputPath string) {
