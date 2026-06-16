@@ -3,7 +3,7 @@ module github.com/DataDog/ddmonitor
 go 1.15
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.4.2 // indirect
 	github.com/Masterminds/sprig v2.20.0+incompatible
 	github.com/agext/levenshtein v1.2.2 // indirect
@@ -24,5 +24,5 @@ require (
 	github.com/zclconf/go-cty v1.1.0 // indirect
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4 // indirect
 	golang.org/x/sys v0.0.0-20220513210249-45d2b4557a2a // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
